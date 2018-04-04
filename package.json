@@ -1,0 +1,19 @@
+{
+	"name": "NodeDocker",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "4.13.x",
+		"ibm_db": "0.0.19",
+		"cfenv": "1.0.x",
+		"body-parser": "*",
+		"mongodb" : "*"
+	},
+	"repository": {},
+	"engines": {
+		"node": "4.x"
+	} 
+}
